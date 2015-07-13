@@ -1,0 +1,9 @@
+{
+    "name": "shopping-cart",
+    "description": "Example project for tutorial on React",
+    "version": "1.0.0",
+    "dependencies": {
+        "bootstrap": "3.3.5",
+        "react": "0.13.3"
+    }
+}
